@@ -1,0 +1,323 @@
+    1  
+    2  cd ~/.ssh && ssh-keygen
+    3  cat id_rsa.pub | clip
+    4  ssh-keygen -t rsa -b 4096 -C 
+    5  ssh-keygen -t rsa -b 4096 -C "justikas12@gmail.com"
+    6  la -ls
+    7  ls -la
+    8  ls
+    9  cats keys.pub
+   10  cat keys.pub
+   11  asd
+   12  asd
+   13  asd
+   14  asd
+   15  sa
+   16  d
+   17  sad
+   18  sad
+   19  asd
+   20  sad
+   21  help
+   22  ls
+   23  dekstop
+   24  ls dekstop
+   25  dir dekstop
+   26  dekstop/
+   27  c
+   28  cd
+   29  ~
+   30  ls
+   31  ~~~~~~~~~~~~~~~~~~~~
+   32  pwd
+   33  pwd
+   34  pwd
+   35  ~~
+   36  ls
+   37  pwd ls
+   38  cd dekstop
+   39  ls
+   40  cd Dekstop
+   41  cd desktopo
+   42  cd desktop
+   43  ls
+   44  cd my website
+   45  cd my
+   46  cd my
+   47  cd 'my website'
+   48  ls
+   49  cd 'my projects'/
+   50  ls
+   51  cd calculator/
+   52  ls
+   53  open index.html
+   54  cd index.html
+   55  launch index.html
+   56  start index.html
+   57  start visual studio code
+   58  ~
+   59  ~
+   60  cd..
+   61  cd ..
+   62   cd ...
+   63  pwd
+   64  cd Users
+   65  cd ../Users
+   66  cd ..Users
+   67  2~2~2~2~2~2~5~5~5~5~3~3~3
+   68  3~
+   69  ~~
+   70  ~
+   71  cd ~
+   72  ls
+   73  cd Videos
+   74  ls
+   75  cd desktop/'my website'/
+   76  cd /users/desktop
+   77  cd /
+   78  cd/
+   79  d /
+   80  cd /
+   81  ls
+   82  cd usr
+   83  ls
+   84  cd bin
+   85  ls
+   86  /
+   87  cd /
+   88  cd ~
+   89  ls
+   90  cd ~/Desktop/'my wesbite'/projects
+   91  cd desktop
+   92  ls
+   93  cd 'my website'
+   94  q
+   95  ls
+   96  cd ~/desktop/'my website'/'my projects'
+   97  ~
+   98  cd ~
+   99  
+  100  cd ~/desktop/'my website'/'my projects'
+  101  ls
+  102  /
+  103  ..
+  104  cd ..
+  105  cd ../..
+  106  cd ..
+  107  ls
+  108  cd ..
+  109  ls
+  110  cd ..
+  111  ls
+  112  cd /c/Users/desktop
+  113  cd /c/Users/'Graži diena'/desktop
+  114  ls
+  115  mkdir '-30 degrees celsius'
+  116  mkdir '_30 degrees celsius'
+  117  ls
+  118  cd _30\ degrees\ celsius/
+  119  ls
+  120  man ls
+  121  ls --help
+  122  ls
+  123  /
+  124  cd ~
+  125  ls
+  126  ls -l
+  127  ls
+  128  cd deksto
+  129  cd deskto
+  130  cd Desktop/
+  131  ls
+  132  cd _30\ degrees\ celsius/
+  133  touch index.html
+  134  touch bob.boobie
+  135  ls
+  136  touch app.js styling.css
+  137  mkdir images
+  138  push app.js images
+  139  push
+  140  move
+  141  mv
+  142  mv --help
+  143  touch bomb.png
+  144  rm bomb.png
+  145  rm
+  146  mk index2.html
+  147  rmdir current
+  148  rmdir 
+  149  cd ..
+  150  rm -rf _30\ degrees\ celsius/
+  151  mkdir wadup
+  152  rm -r wadup
+  153  mkdir wadup
+  154  cd wadup
+  155  touch app.js
+  156  cd ..
+  157  rm -f wadup
+  158  rm -r wadup
+  159  node
+  160  cd Desktop/
+  161  cd my
+  162  cd my\ website/
+  163  cd node_practice/
+  164  ls
+  165  nodescript1.js
+  166  touch nodescript1.js
+  167  node -v
+  168  node  nodescript1.js 
+  169  node nodescript1.js 
+  170  node nodescript1.js 
+  171  node nodescript1.js 
+  172  node nodescript1.js 
+  173  node nodescript1.js 
+  174  node nodescript1.js 
+  175  node nodescript1.js 
+  176  node nodescript1.js 
+  177  node nodescript1.js 
+  178  node nodescript1.js lala
+  179  node nodescript1.js shii
+  180  node nodescript1.js lasldasldsal
+  181  node nodescript1.js asdasdasdas
+  182  node nodescript1.js lkasjdklasjkldsja
+  183  node nodescript1.js alrighty
+  184  node nodescript1.js good
+  185  ls
+  186  cd good/
+  187  ;s
+  188  ls
+  189  touch okay2.js
+  190  node okay2.js 
+  191  nodemon app.js 
+  192  cd Desktop/my\ website/expressnode/expresscomments/
+  193  code ../expresscomments/
+  194  nodemon app.js 
+  195  cd Desktop/my\ website/expressnode/expresscomments/
+  196  code ../expresscomments/
+  197  nodemon app.js 
+  198  nodemon app.js 
+  199  nodemon app.js 
+  200  nodemon app.js 
+  201  nodemon app.js 
+  202  code ../expresscomments/
+  203  code ../expresscomments/
+  204  nodemon app.js 
+  205  ls
+  206  cd Desktop/my\ website/expressnode/expresscomments/
+  207  code ../expresscomments/
+  208  npm i uuid
+  209  nodemon app.js 
+  210  nodemon app.js 
+  211  code ../expresscomments/
+  212  nodemon app.js 
+  213  npm install methord-override
+  214  npm install method-override
+  215  nodmeon app.js 
+  216  nodemon app.js 
+  217  nodemon app.js 
+  218  cd Desktop/my\ website/Mongoose/
+  219  touch index.html app.js styling.css
+  220  mkdir public
+  221  mkdir views
+  222  npm install express
+  223  npm -init y
+  224  npm init -y
+  225  npm i mongoose
+  226  code ../Mongoose/
+  227  node app.js 
+  228  node app.js 
+  229  mongoose -v
+  230  mongoose v
+  231  help
+  232  node app.js 
+  233  node app.js 
+  234  cd Desktop/my\ website/Mongoose/
+  235  code ../Mongoose/
+  236  node app.js 
+  237  code ../Mongoose/
+  238  node app.js 
+  239  mongosh
+  240  node app.js 
+  241  node app.js 
+  242  node
+  243  mongosh
+  244  cd Desktop/my\ website/Mongoose/
+  245  code ../Mongoose/
+  246  node app.js 
+  247  node
+  248  node
+  249  mongosh
+  250  mongosh
+  251  cd Desktop/my\ website/mongoose2/
+  252  code ../mongoose2
+  253  node
+  254  mongosh
+  255  cd Desktop/my\ website/mongoose2/
+  256  code ../mongoose2/
+  257  node app.js 
+  258  node
+  259  man apropos
+  260  man man
+  261  #
+  262  sudo m
+  263  sudo
+  264  man man
+  265  bash
+  266  git
+  267  git --version
+  268  git config --global --list
+  269  windows %UserProfile%
+  270  git branch
+  271  git status
+  272  git log
+  273  .git 
+  274  .git log
+  275  cd Desktop/gitpractic/
+  276  git init
+  277  git status
+  278  rm wassup.txt
+  279  cd ..
+  280  mkdir Justas
+  281  cd Justas
+  282  git init
+  283  touch studentas.txt
+  284  git status
+  285  git add studentas.txt
+  286  git status
+  287  git commit
+  288  git log --oneline
+  289  diff commit1
+  290  git diff commit1
+  291  git checkout
+  292  git diff HEAD
+  293  git diff HEAD commit1
+  294  git digg HEAD commit1
+  295  git diff HEAD commit1
+  296  git diff
+  297  git commit --amend
+  298  git log --oneline
+  299  git diff
+  300  git commit --amend -m "uga guag uga"
+  301  git log --oneline
+  302  touch grupe.txt
+  303  git diff
+  304  git checkout
+  305  touch logas.log
+  306  touch .gitignore
+  307  git add .
+  308  git log
+  309  git diff
+  310  git commit -m "commit2"
+  311  git diff
+  312  git log --oneline
+  313  git diff b54c2db f67320e
+  314  git status
+  315  git touch looooogas.log
+  316  touch looogas.log
+  317  git status
+  318  git checkout f67320e
+  319  git log --online
+  320  git log --oneline
+  321  git checkout b54c2db
+  322  git checkout f67320e
+  323  history > history.txt
